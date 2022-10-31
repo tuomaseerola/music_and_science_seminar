@@ -8,6 +8,7 @@ The links will take you to Colab pages.
 
 - [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb)
 - [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb)
+- Computational Score Analysis
 
 ### Learning resources about Python, audio and music
 
