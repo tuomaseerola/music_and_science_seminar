@@ -7,7 +7,7 @@
 These Jupyter notebooks have been developed for **Music and Science Module** (UG MUSI2731 for 2022-2-23). They are designed to work with Colab (python 3.7 with Librosa 0.8.1 and matplotlib).
 
 - Tutorial on Creating Sounds Using Sines [ipynb](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb) <a href="https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- Tutorial on Audio Analysing [ipynb]](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) <a href="https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- Tutorial on Audio Analysing [ipynb](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) <a href="https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Learning resources about Python, audio and music
 
