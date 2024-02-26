@@ -1,6 +1,6 @@
 ## Music and Science Seminar materials
 
-[Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2023.
+[Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2024.
 
 These Jupyter notebooks have been developed for teaching of **Music and Science**. They are designed to work within Colab (Python 3.7 with Librosa 0.8.1 and matplotlib).
 
@@ -23,4 +23,4 @@ The links will take you to Colab pages.
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 - [Librosa package for music and audio analysis](https://librosa.org/doc/0.8.1/index.html)
 
-_Last update 30/10/2022 by TE_
+_Last update 26/02/2024 by TE_
