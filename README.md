@@ -6,9 +6,8 @@ These Jupyter notebooks have been developed for teaching of **Music and Science*
 
 The links will take you to Colab pages.
 
-- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb)
 - [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb)
-- Computational Score Analysis
+- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2B.ipynb) (optional)
 
 ### Corpus analyses
 
@@ -21,6 +20,6 @@ The links will take you to Colab pages.
 
 - [Python for Beginners](https://www.python.org/about/gettingstarted/)
 - [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
-- [Librosa package for music and audio analysis](https://librosa.org/doc/0.8.1/index.html)
+- [Librosa package for music and audio analysis](https://librosa.org/doc/main/index.html)
 
 _Last update 26/02/2024 by TE_
