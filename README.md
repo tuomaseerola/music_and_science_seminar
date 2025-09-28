@@ -27,10 +27,10 @@ Some of the code is based on [Music and Science book: online materials](https://
 
 ### Corpus analyses
 
-- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb)
+- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb)
+- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb)
+- [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb)
 
 ### Learning resources about Python, audio and music
 
@@ -39,4 +39,3 @@ Some of the code is based on [Music and Science book: online materials](https://
 - [Librosa package for music and audio analysis](https://librosa.org/doc/main/index.html)
 
 _Last update 24/09/2025 by TE_
-
