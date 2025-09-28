@@ -5,7 +5,7 @@ _By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham Unive
 
 This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks**, which contain interactive notebooks that you can use to explore various topics and techniques. 
 
-Some of the code is based on [Music and Science: A Guide to Empirical Research - online materials](https://tuomaseerola.github.io/emr/) ![](https://tuomaseerola.github.io/emr/images/music_and_science_cover_sm.png){height=100, fig-align="right"}
+Some of the code is based on [Music and Science: A Guide to Empirical Research - online materials](https://tuomaseerola.github.io/emr/)
 
 ## Week 1
 
