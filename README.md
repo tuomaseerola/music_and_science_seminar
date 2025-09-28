@@ -2,7 +2,7 @@
 
 By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025.
 
-This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks** that contain interactive notebooks to try explore various topics.
+This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks** that contain interactive notebooks to try explore various topics. Use this link for easier access of the materials: [https://tuomaseerola.github.io/music_and_science_seminar/](https://tuomaseerola.github.io/music_and_science_seminar/)
 
 Some of the code is based on [Music and Science book: online materials](https://tuomaseerola.github.io/emr/)
 
