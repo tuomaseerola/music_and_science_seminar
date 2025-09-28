@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  page-footer: 
+    right: 
+      - icon: github
+        href: https://github.com/tuomaseerola/
+  title: "Music and Science Seminar Materials"
+  repo-url: https://github.com/tuomaseerola/music_and_science_seminar/
+  site-url: "https://tuomaseerola.github.io/music_and_science_seminar/"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+      - icon: github
+        href: https://github.com/tuomaseerola/music_and_science_seminar/
+        aria-label: GitHub
+  page-navigation: true
+  back-to-top-navigation: true
+format:
+  html:
+    theme: zephyr # materia # lumen, pulse, yeti, zephyr
+    css: styles.css
+    toc: false
+    page-layout: full

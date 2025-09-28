@@ -14,7 +14,7 @@ The links will take you either to Colab pages or interactive web pages.
 - Demos of wave probagation in [Tubes](https://ophysics.com/w10b.html)
 - Demo of wave probagation in space [ribble tank demo](https://www.falstad.com/ripple/) or [wave probagation](https://visualpde.com/sim/?preset=waveEquation)
 
-- Chapter 10 in [Music and Science book: online materials about analysis of audio](https://github.com/tuomaseerola/emr/tree/main/data)
+- Chapter 10 in [Music and Science book: online materials about analysis of audio](https://tuomaseerola.github.io/emr/)
 	*  [Basics (sines)](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.1.ipynb)
 	*  [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb)
 	*  [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb)

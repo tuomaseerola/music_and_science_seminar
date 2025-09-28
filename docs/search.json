@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Music and Science Seminar Materials",
+    "section": "",
+    "text": "By Tuomas Eerola, Durham University, Music Department, 2025.\nThis repository contains materials for teaching of Music and Science. Links with special icons take you to Colab Notebooks that contain interactive notebooks to try explore various topics.\nSome of the code is based on Music and Science book: online materials"
+  },
+  {
+    "objectID": "index.html#music-and-science-seminar-materials",
+    "href": "index.html#music-and-science-seminar-materials",
+    "title": "Music and Science Seminar Materials",
+    "section": "",
+    "text": "By Tuomas Eerola, Durham University, Music Department, 2025.\nThis repository contains materials for teaching of Music and Science. Links with special icons take you to Colab Notebooks that contain interactive notebooks to try explore various topics.\nSome of the code is based on Music and Science book: online materials"
+  },
+  {
+    "objectID": "index.html#week-4",
+    "href": "index.html#week-4",
+    "title": "Music and Science Seminar Materials",
+    "section": "Week 4",
+    "text": "Week 4\n\nTutorial on Audio Analysis"
+  },
+  {
+    "objectID": "index.html#advanced-topics",
+    "href": "index.html#advanced-topics",
+    "title": "Music and Science Seminar Materials",
+    "section": "Advanced Topics",
+    "text": "Advanced Topics\n\nCorpus analyses\n\nSimple feature extraction - Python \nUsing features to build emotion prediction model - R \nCorpus analysis of key - Python \nStructure discovery Examples - Python \n\n\n\nLearning resources about Python, audio and music\n\nPython for Beginners\nFundamentals of Music Processing\nLibrosa package for music and audio analysis\n\nLast update 24/09/2025 by TE"
+  },
+  {
+    "objectID": "index.html#week-1",
+    "href": "index.html#week-1",
+    "title": "Music and Science Seminar Materials",
+    "section": "Week 1",
+    "text": "Week 1\n\nTutorial on Creating Sounds Using Sines \nDemo of wave probagation in Strings\nDemos of wave probagation in Tubes\nDemo of wave probagation in space ribble tank demo or wave probagation"
+  },
+  {
+    "objectID": "index.html#week-2",
+    "href": "index.html#week-2",
+    "title": "Music and Science Seminar Materials",
+    "section": "Week 2",
+    "text": "Week 2\n\nSpectrum and envelope \nPhysical"
+  }
+]
