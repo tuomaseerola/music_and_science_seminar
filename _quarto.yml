@@ -7,6 +7,7 @@ website:
       - icon: github
         href: https://github.com/tuomaseerola/
   title: "Music and Science Seminar Materials"
+  image: MS_cover.png
   repo-url: https://github.com/tuomaseerola/music_and_science_seminar/
   site-url: "https://tuomaseerola.github.io/music_and_science_seminar/"
   search: true
