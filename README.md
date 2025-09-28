@@ -24,6 +24,7 @@ Some of the code is based on [Music and Science: A Guide to Empirical Research -
 
 - [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) 
 - [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) 
+- [Music to emotion live demo](https://huggingface.co/amaai-lab/music2emo)
 
 ### Learning resources about Python, audio and music
 
