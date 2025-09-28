@@ -4,11 +4,21 @@
 
 These Jupyter notebooks have been developed for teaching of **Music and Science**. They are designed to work within Colab (Python 3.7 with Librosa 0.8.1 and matplotlib).
 
-The links will take you to Colab pages.
+The links will take you either to Colab pages or interactive web pages.
 
-- Week 1: [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb)
+### Week 1
 
-- Week 4: [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb)
+- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb)
+
+- Demo of wave probagation in [Strings](https://ophysics.com/waves6.html)
+- Demos of wave probagation in [Tubes](https://ophysics.com/w10b.html)
+- Demo of wave probagation in space [ribble tank demo](https://www.falstad.com/ripple/) or [wave probabtion](https://visualpde.com/sim/?preset=waveEquation)
+
+## Week 4
+
+- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb)
+
+## Advanced Topics 
 
 ### Corpus analyses
 
