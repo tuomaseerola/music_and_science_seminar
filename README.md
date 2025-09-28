@@ -2,13 +2,13 @@
 
 By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025.
 
-This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks**![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30} that contain interactive notebooks to try explore various topics.
+This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks** that contain interactive notebooks to try explore various topics.
 
-Some of the code is based on [Music and Science book: online materials](https://tuomaseerola.github.io/emr/) ![](https://tuomaseerola.github.io/emr/images/music_and_science_cover_sm.png){height=80}
+Some of the code is based on [Music and Science book: online materials](https://tuomaseerola.github.io/emr/)
 
 ## Week 1
 
-- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb)
 
 - Demo of wave probagation in [Strings](https://ophysics.com/waves6.html)
 - Demos of wave probagation in [Tubes](https://ophysics.com/w10b.html)
@@ -16,12 +16,12 @@ Some of the code is based on [Music and Science book: online materials](https://
 
 ## Week 2
 
-- [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb)
+- [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb)
 
 ## Week 4
 
-- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb)
 
 ## Advanced Topics 
 
