@@ -3,13 +3,13 @@
 
 _By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025._
 
-This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks**![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}, which contain interactive notebooks that you can use to explore various topics and techniques. 
+This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks**, which contain interactive notebooks that you can use to explore various topics and techniques. 
 
-Some of the code is based on [Music and Science: A Guide to Empirical Research - online materials](https://tuomaseerola.github.io/emr/) ![](https://tuomaseerola.github.io/emr/images/music_and_science_cover_sm.png){height=130, aligh=right}
+Some of the code is based on [Music and Science: A Guide to Empirical Research - online materials](https://tuomaseerola.github.io/emr/) ![](https://tuomaseerola.github.io/emr/images/music_and_science_cover_sm.png){height=130, align=right}
 
 ## Week 1
 
-- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb) 
 
 - Demo of wave probagation in [Strings](https://ophysics.com/waves6.html)
 - Demos of wave probagation in [Tubes](https://ophysics.com/w10b.html)
@@ -17,16 +17,16 @@ Some of the code is based on [Music and Science: A Guide to Empirical Research -
 
 ## Week 2
 
-- [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
-- [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb) 
+- [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb) 
 
-- [Oscillator model](https://colab.research.google.com/github/FelipeTorr/KuramotoNetworksPackage/blob/main/KuramotoNotebook.ipynb#scrollTo=split-mixture) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Oscillator model](https://colab.research.google.com/github/FelipeTorr/KuramotoNetworksPackage/blob/main/KuramotoNotebook.ipynb#scrollTo=split-mixture) 
 
 ## Week 4
 
-- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) 
 
-- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) 
 
 
 ### Learning resources about Python, audio and music
