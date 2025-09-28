@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Music and Science Seminar Materials",
     "section": "",
-    "text": "By Tuomas Eerola, Durham University, Music Department, 2025.\n\nThis repository contains materials for teaching of Music and Science. Links with special icons take you to Colab Notebooks that contain interactive notebooks to try explore various topics. Use this link for easier access of the materials: https://tuomaseerola.github.io/music_and_science_seminar/\nSome of the code is based on Music and Science book: online materials"
+    "text": "By Tuomas Eerola, Durham University, Music Department, 2025.\nThis repository contains materials for teaching of Music and Science. Links with special icons take you to Colab Notebooks, which contain interactive notebooks that you can use to explore various topics and techniques.\nSome of the code is based on Music and Science: A Guide to Empirical Research - online materials"
   },
   {
     "objectID": "index.html#music-and-science-seminar-materials",
     "href": "index.html#music-and-science-seminar-materials",
     "title": "Music and Science Seminar Materials",
     "section": "",
-    "text": "By Tuomas Eerola, Durham University, Music Department, 2025.\n\nThis repository contains materials for teaching of Music and Science. Links with special icons take you to Colab Notebooks that contain interactive notebooks to try explore various topics. Use this link for easier access of the materials: https://tuomaseerola.github.io/music_and_science_seminar/\nSome of the code is based on Music and Science book: online materials"
+    "text": "By Tuomas Eerola, Durham University, Music Department, 2025.\nThis repository contains materials for teaching of Music and Science. Links with special icons take you to Colab Notebooks, which contain interactive notebooks that you can use to explore various topics and techniques.\nSome of the code is based on Music and Science: A Guide to Empirical Research - online materials"
   },
   {
     "objectID": "index.html#week-4",
     "href": "index.html#week-4",
     "title": "Music and Science Seminar Materials",
     "section": "Week 4",
-    "text": "Week 4\n\nTutorial on Audio Analysis"
+    "text": "Week 4\n\nTutorial on Audio Analysis \nSimple feature extraction - Python \n\n\n\nLearning resources about Python, audio and music\n\nPython for Beginners\nFundamentals of Music Processing\nLibrosa package for music and audio analysis\n\nLast update 24/09/2025 by TE"
   },
   {
     "objectID": "index.html#advanced-topics",
@@ -39,6 +39,6 @@
     "href": "index.html#week-2",
     "title": "Music and Science Seminar Materials",
     "section": "Week 2",
-    "text": "Week 2\n\nSpectrum and envelope \nPhysical"
+    "text": "Week 2\n\nSpectrum and envelope \nPhysical \nOscillator model"
   }
 ]

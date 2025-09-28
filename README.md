@@ -1,14 +1,15 @@
 ## Music and Science Seminar materials
+[https://tuomaseerola.github.io/music_and_science_seminar/](https://tuomaseerola.github.io/music_and_science_seminar/)
 
-By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025.
+_By [Tuomas Eerola](https://www.durham.ac.uk/staff/tuomas-eerola/), Durham University, Music Department, 2025._
 
-This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks** that contain interactive notebooks to try explore various topics. Use this link for easier access of the materials: [https://tuomaseerola.github.io/music_and_science_seminar/](https://tuomaseerola.github.io/music_and_science_seminar/)
+This repository contains materials for teaching of **Music and Science**. Links with special icons take you to **Colab Notebooks**![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}, which contain interactive notebooks that you can use to explore various topics and techniques. 
 
-Some of the code is based on [Music and Science book: online materials](https://tuomaseerola.github.io/emr/)
+Some of the code is based on [Music and Science: A Guide to Empirical Research - online materials](https://tuomaseerola.github.io/emr/) ![](https://tuomaseerola.github.io/emr/images/music_and_science_cover_sm.png){height=130, aligh=right}
 
 ## Week 1
 
-- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb)
+- [Tutorial on Creating Sounds Using Sines](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/week1.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
 
 - Demo of wave probagation in [Strings](https://ophysics.com/waves6.html)
 - Demos of wave probagation in [Tubes](https://ophysics.com/w10b.html)
@@ -16,21 +17,17 @@ Some of the code is based on [Music and Science book: online materials](https://
 
 ## Week 2
 
-- [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb)
-- [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb)
+- [Spectrum and envelope](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.2.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+- [Physical](https://colab.research.google.com/github/tuomaseerola/emr/blob/main/nb/Chapter10.3.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
+
+- [Oscillator model](https://colab.research.google.com/github/FelipeTorr/KuramotoNetworksPackage/blob/main/KuramotoNotebook.ipynb#scrollTo=split-mixture) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
 
 ## Week 4
 
-- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb)
+- [Tutorial on Audio Analysis](https://colab.research.google.com/github/tuomaseerola/music_and_science_seminar/blob/master/seminar2A.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
 
-## Advanced Topics 
+- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb) ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg){height=30}
 
-### Corpus analyses
-
-- [Simple feature extraction - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_feature_extraction.ipynb)
-- [Using features to build emotion prediction model - R](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/build_regression_model.ipynb)
-- [Corpus analysis of key - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/corpus_analysis_tutorial_key.ipynb)
-- [Structure discovery Examples - Python](https://github.com/tuomaseerola/music_and_science_seminar/blob/master/structure_discovery.ipynb)
 
 ### Learning resources about Python, audio and music
 
@@ -39,3 +36,4 @@ Some of the code is based on [Music and Science book: online materials](https://
 - [Librosa package for music and audio analysis](https://librosa.org/doc/main/index.html)
 
 _Last update 24/09/2025 by TE_
+
